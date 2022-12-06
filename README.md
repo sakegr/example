@@ -1,2 +1,2 @@
 # example
-[Click Me]()
+[Click Me](https://sakegr.github.io/example/)
